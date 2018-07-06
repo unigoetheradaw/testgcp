@@ -1,7 +1,6 @@
 
 import logging
 import os
-from google.appengine.api import app_identity
 import numpy as np
 
 def main():
