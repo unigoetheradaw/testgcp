@@ -1,5 +1,6 @@
 import numpy as np
 import os
+from google.appengine.api import app_identity
 
 def main():
     print("Hallo World")
